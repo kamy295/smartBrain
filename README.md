@@ -1,2 +1,2 @@
 # smartBrain
-SmartBrain - The Face Recognition App
+SmartBrain - The Face Recognition App (Front End)
